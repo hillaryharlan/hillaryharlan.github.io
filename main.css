@@ -108,17 +108,6 @@ body {
   right: 30px;
   z-index: 2;
 }
-@media (max-width: 600px) {
-  .menu {
-    right: -10px;
-    top: 10px;
-    -webkit-transform: scale(0.5);
-    -moz-transform: scale(0.5);
-    -ms-transform: scale(0.5);
-    -o-transform: scale(0.5);
-    transform: scale(0.5);
-  }
-}
 .menu > li {
   display: inline-block;
   margin-left: 15px;
