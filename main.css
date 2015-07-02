@@ -115,6 +115,17 @@ body {
 .menu > li:first-child {
   margin-left: 0;
 }
+@media (max-width: 600px) {
+  .menu {
+    right: -10px;
+    top: 10px;
+    -webkit-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    -o-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+}
 .menu a {
   -webkit-transition: all 500ms ease;
   -moz-transition: all 500ms ease;
@@ -178,6 +189,7 @@ body {
   -ms-animation: social 750ms ease 3.5s backwards;
   -moz-animation: social 750ms ease 3.5s backwards;
   -o-animation: social 750ms ease 3.5s backwards;
+  background: url("../assets/resume.svg") no-repeat center center;
 }
 
 @-webkit-keyframes social {
