@@ -148,7 +148,7 @@ body {
 	-ms-animation: social 750ms ease 3.7s backwards;
 	-moz-animation: social 750ms ease 3.7s backwards;
 	-o-animation: social 750ms ease 3.7s backwards;
-	background: url("github.svg") no-repeat center center;
+	background: url("/assets/github.svg") no-repeat center center;
 }
 
 .twitter {
@@ -157,7 +157,7 @@ body {
 	-ms-animation: social 750ms ease 3.5s backwards;
 	-moz-animation: social 750ms ease 3.5s backwards;
 	-o-animation: social 750ms ease 3.5s backwards;
-	background: url('twitter.svg') no-repeat center center;
+	background: url('/assets/twitter.svg') no-repeat center center;
 }
 .linkedin {
 	animation: linkedin 750ms ease 3.1s backwards;
@@ -165,7 +165,7 @@ body {
 	-ms-animation: linkedin 750ms ease 3.1s backwards;
 	-moz-animation: linkedin 750ms ease 3.1s backwards;
 	-o-animation: linkedin 750ms ease 3.1s backwards;
-	background: url('linkedin.svg') no-repeat 55% 40%;
+	background: url('/assets/linkedin.svg') no-repeat 55% 40%;
 }
 .dribble {
 	animation: social 750ms ease 3.2s backwards;
@@ -173,7 +173,7 @@ body {
 	-ms-animation: social 750ms ease 3.2s backwards;
 	-moz-animation: social 750ms ease 3.2s backwards;
 	-o-animation: social 750ms ease 3.2s backwards;
-	background: url('dribble.svg') no-repeat center center;
+	background: url('/assets/dribble.svg') no-repeat center center;
 }
 .mail {
 	animation: social 750ms ease 2.9s backwards;
@@ -181,7 +181,7 @@ body {
 	-ms-animation: social 750ms ease 2.9s backwards;
 	-moz-animation: social 750ms ease 2.9s backwards;
 	-o-animation: social 750ms ease 2.9s backwards;
-	background: url('letter.svg') no-repeat center center;
+	background: url('/assets/letter.svg') no-repeat center center;
 }
 .resume {
   animation: social 750ms ease 3.5s backwards;
@@ -189,7 +189,7 @@ body {
   -ms-animation: social 750ms ease 3.5s backwards;
   -moz-animation: social 750ms ease 3.5s backwards;
   -o-animation: social 750ms ease 3.5s backwards;
-  background: url('resume.svg') no-repeat center center;
+  background: url('/assets/resume.svg') no-repeat center center;
 }
 
 @-webkit-keyframes social {
@@ -422,7 +422,7 @@ body {
 	left: 0;
 	width: 44px;
 	height: 97px;
-	background: url('h-a.png') no-repeat;
+	background: url('/assets/h-a.png') no-repeat;
 }
 .i {
 	animation: letter 300ms ease 1.6s backwards;
@@ -434,7 +434,7 @@ body {
 	left: 32px;
 	width: 28px;
 	height: 97px;
-	background: url('i.png') no-repeat;
+	background: url('/assets/i.png') no-repeat;
 }
 .l-a {
 	animation: letter 300ms ease 1.7s backwards;
@@ -446,7 +446,7 @@ body {
 	left: 51px;
 	width: 28px;
 	height: 97px;
-	background: url('l-a.png') no-repeat;
+	background: url('/assets/l-a.png') no-repeat;
 }
 .l-b {
 	animation: letter 300ms ease 1.8s backwards;
@@ -458,7 +458,7 @@ body {
 	left: 76px;
 	width: 28px;
 	height: 97px;
-	background: url('l-b.png') no-repeat;
+	background: url('/assets/l-b.png') no-repeat;
 }
 .a-a {
 	animation: letter 300ms ease 1.9s backwards;
@@ -470,7 +470,7 @@ body {
 	left: 106px;
 	width: 34px;
 	height: 97px;
-	background: url('a-a.png') no-repeat;
+	background: url('/assets/a-a.png') no-repeat;
 }
 .r-a {
 	animation: letter 300ms ease 2.0s backwards;
@@ -482,7 +482,7 @@ body {
 	left: 137px;
 	width: 33px;
 	height: 97px;
-	background: url('r-a.png') no-repeat;
+	background: url('/assets/r-a.png') no-repeat;
 }
 .h-b {
 	animation: letter 300ms ease 2.2s backwards;
@@ -494,7 +494,7 @@ body {
 	left: 164px;
 	width: 85px;
 	height: 97px;
-	background: url('h-c.png') no-repeat;
+	background: url('/assets/h-c.png') no-repeat;
 }
 .a-b {
 	animation: letter 300ms ease 2.3s backwards;
@@ -506,7 +506,7 @@ body {
 	left: 244px;
 	width: 34px;
 	height: 97px;
-	background: url('a-b.png') no-repeat;
+	background: url('/assets/a-b.png') no-repeat;
 }
 .r-b {
 	animation: letter 300ms ease 2.4s backwards;
@@ -518,7 +518,7 @@ body {
 	left: 276px;
 	width: 38px;
 	height: 97px;
-	background: url('r-b.png') no-repeat;
+	background: url('/assets/r-b.png') no-repeat;
 }
 .l-c {
 	animation: letter 300ms ease 2.5s backwards;
@@ -530,7 +530,7 @@ body {
 	left: 310px;
 	width: 33px;
 	height: 97px;
-	background: url('l-c.png') no-repeat;
+	background: url('/assets/l-c.png') no-repeat;
 }
 .a-c {
 	animation: letter 300ms ease 2.6s backwards;
@@ -542,7 +542,7 @@ body {
 	left: 334px;
 	width: 33px;
 	height: 97px;
-	background: url('a-c.png') no-repeat;
+	background: url('/assets/a-c.png') no-repeat;
 }
 .n {
 	animation: letter 300ms ease 2.7s backwards;
@@ -554,7 +554,7 @@ body {
 	left: 370px;
 	width: 38px;
 	height: 97px;
-	background: url('n.png') no-repeat;
+	background: url('/assets/n.png') no-repeat;
 }
 @-webkit-keyframes letter {
   0% {
@@ -725,7 +725,7 @@ body {
   display: inline-block;
   width: 190px;
   height: 40px;
-  background: url("about-me2.svg") no-repeat center;
+  background: url("/assets/about-me2.svg") no-repeat center;
 }
 @-webkit-keyframes about-me {
   0% {
@@ -810,7 +810,7 @@ body {
   }
 } 
 .mountains1 {
-  background-image: url("mountains 1.svg");
+  background-image: url("/assets/mountains 1.svg");
   z-index: 0;  
   animation: layout-animation 750ms ease 1s backwards;
   -webkit-animation: layout-animation 750ms ease 1s backwards;
@@ -843,7 +843,7 @@ body {
   }
 } 
 .mountains2 {
-  background-image: url("mountains 2.svg");
+  background-image: url("/assets/mountains 2.svg");
   z-index: 0;  
   animation: layout-animation 750ms ease 1.3s backwards;
   -webkit-animation: layout-animation 750ms ease 1.3s backwards;
@@ -876,7 +876,7 @@ body {
   }
 } 
 .mountains3 {
-  background-image: url("mountains 3.svg");
+  background-image: url("/assets/mountains 3.svg");
   z-index: 0;  
   animation: layout-animation 750ms ease 1.5s backwards;
   -webkit-animation: layout-animation 750ms ease 1.5s backwards;
@@ -942,21 +942,21 @@ body {
 .cloud-a {
   position: absolute;
   z-index: 2;
-  background: url("cloud.svg") no-repeat;
+  background: url("/assets/cloud.svg") no-repeat;
   background-size: cover;
 }
 
 .cloud-b {
   position: absolute;
   z-index: 2;
-  background: url("cloud.svg") no-repeat;
+  background: url("/assets/cloud.svg") no-repeat;
   background-size: cover;
 }
 
 .cloud-c {
   position: absolute;
   z-index: 2;
-  background: url("cloud.svg") no-repeat;
+  background: url("/assets/cloud.svg") no-repeat;
   background-size: cover;
 }
 
@@ -1144,7 +1144,7 @@ body {
   -moz-animation: corner-b 300ms ease 2.4s backwards;
   -o-animation: corner-b 300ms ease 2.4s backwards;
   left: -49px;
-  background: transparent url("corner-1.svg") no-repeat;
+  background: transparent url("/assets/corner-1.svg") no-repeat;
 }
 .job > .corner-2 {
   animation: corner-b 300ms ease 2.5s backwards;
@@ -1153,7 +1153,7 @@ body {
   -moz-animation: corner-b 300ms ease 2.5s backwards;
   -o-animation: corner-b 300ms ease 2.5s backwards;
   right: -50px;
-  background: transparent url("corner-2.svg") no-repeat;
+  background: transparent url("/assets/corner-2.svg") no-repeat;
 }
 
 @-webkit-keyframes grow-b {
