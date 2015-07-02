@@ -189,7 +189,6 @@ body {
   -ms-animation: social 750ms ease 3.5s backwards;
   -moz-animation: social 750ms ease 3.5s backwards;
   -o-animation: social 750ms ease 3.5s backwards;
-  background: url("../assets/resume.svg") no-repeat center center;
 }
 
 @-webkit-keyframes social {
