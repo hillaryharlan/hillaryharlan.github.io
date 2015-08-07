@@ -62,7 +62,7 @@ body {
   overflow: hidden;
 }
 .background {
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #BCE6D5), color-stop(100%, #F4F8D2));
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #AEFFDF), color-stop(100%, #F4F8D2));
   background-image: -webkit-linear-gradient(#a4cfbd, #e5e8c8);
   background-image: -moz-linear-gradient(#a4cfbd, #e5e8c8);
   background-image: -o-linear-gradient(#a4cfbd, #e5e8c8);
