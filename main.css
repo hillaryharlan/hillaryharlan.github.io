@@ -62,11 +62,11 @@ body {
   overflow: hidden;
 }
 .background {
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #dfeb79), color-stop(100%, #f4f8d2));
-  background-image: -webkit-linear-gradient(#dfeb79, #f4f8d2);
-  background-image: -moz-linear-gradient(#dfeb79, #f4f8d2);
-  background-image: -o-linear-gradient(#dfeb79, #f4f8d2);
-  background-image: linear-gradient(#dfeb79, #f4f8d2);
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #a4cfbd), color-stop(100%, #f4f8d2));
+  background-image: -webkit-linear-gradient(#a4cfbd, #f4f8d2);
+  background-image: -moz-linear-gradient(#a4cfbd, #f4f8d2);
+  background-image: -o-linear-gradient(#a4cfbd, #f4f8d2);
+  background-image: linear-gradient(#a4cfbd, #f4f8d2);
   animation: fadein 2s ease;
   -webkit-animation: fadein 2s ease;
   -ms-animation: fadein 2s ease;
